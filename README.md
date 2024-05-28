@@ -8,24 +8,19 @@ Ejemplo: matriz triangular de 4x4.
 	2 & 3 & -4 & 5\\ 
 	0 & -4 & 5 & 1\\ 
 	0 & 0 & 7 & 4\\ 
-	0 & 0 & 0 & 5
+	0 & 0 & 0 & 5\\
 	\end{bmatrix}
-
-
-
 
 2. Implemente un programa que lea desde teclado las dimensiones de dos matrices, así como sus datos y si es posible realice la multiplicación de ambas. Ejemplo de multiplicación de matrices.
 
 	$$\begin{bmatrix}
 	1 & 2 & 2\\ 
 	2 & 3 & 1
-	\end{bmatrix}
-	\begin{bmatrix}
+	\end{bmatrix} \begin{bmatrix}
 	2 & 3\\ 
 	4 & 2\\ 
 	1 & 1
-	\end{bmatrix} =
-	\begin{bmatrix}
+	\end{bmatrix} = \begin{bmatrix}
 	12 & 9\\ 
 	17 & 13
 	\end{bmatrix}
@@ -33,7 +28,7 @@ Ejemplo: matriz triangular de 4x4.
 3. Realice un programa en lenguaje C que lea desde teclado la dimensión de una matriz, así como sus datos y muestre la matriz transpuesta de la matriz leída.
 Ejemplo:
 
-	La transpuesta de \begin{bmatrix}
+	La transpuesta de $$\begin{bmatrix}
 	1 & 2\\ 
 	8 & 3\\ 
 	5 & 2

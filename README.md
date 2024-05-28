@@ -16,21 +16,15 @@ Ejemplo: matriz triangular de 4x4.
 <table>
   <tr><td>1</td><td>2</td><td>2</td></tr>
   <tr><td>2</td><td>3</td><td>1</td></tr>
-</table>
-
-<table>
+</table> <table>
   <tr><td>2</td><td>3</td></tr>
   <tr><td>4</td><td>2</td></tr>
   <tr><td>1</td><td>1</td></tr>
-</table>
-
-=
-
-<table>
+</table> = <table>
   <tr><td>12</td><td>9</td></tr>
   <tr><td>17</td><td>13</td></tr>
 </table>
-
+ 
 3. Realice un programa en lenguaje C que lea desde teclado la dimensión de una matriz, así como sus datos y muestre la matriz transpuesta de la matriz leída.
 Ejemplo:
 
